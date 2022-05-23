@@ -240,7 +240,7 @@
     "nodemon": "^2.0.16"
   },
   "scripts": {
-    "start": "node  src/index.js"
+    "start": "babel-node  src/index.js"
   },
   "keywords": [],
   "author": "",
